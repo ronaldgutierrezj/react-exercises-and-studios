@@ -3,8 +3,10 @@
    font-size: 1.7vw;
    font-style: italic;
    color: blue;
+   text-align: left;
 }
 
 .choresHeading {
    text-decoration: underline;
+   text-align: left;
 }

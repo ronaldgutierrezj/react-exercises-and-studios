@@ -7,8 +7,8 @@ export default function BookList() {
    let book3 = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtmfOFoxe8Dqnf5UaNMwk16r76Kn08frbcdQ&usqp=CAU";
 
    return (
-      <div>
-         <h3 className = {classes.bookHeading}>{pageTitle}</h3>
+      <div className={classes.booksList}>
+         <h3 >{pageTitle}</h3>
          <img src={book1} alt="choose to run" />
          <img src={book2} alt="Michelle Obama" />
          <img src={book3} alt="The Hobbit" />
