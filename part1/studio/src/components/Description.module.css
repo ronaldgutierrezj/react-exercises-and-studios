@@ -8,18 +8,12 @@
     .imageUpdates {
        object-fit: contain;
     }
-    .recipePic{
-      margin-top: 20px;
-    }
     #recipePhoto{
       border: solid 10px;
-    }
-    .link{
-
-      vertical-align: middle;
-
     }
     p{
       font-style: italic;
     }
-    
+    .recipePic{
+      align-items: center;
+    }
