@@ -2,7 +2,7 @@ import styles from './Ingredients.module.css'
 
 export default function RecipeIngredients() {
 
-    let ingredients = ["onions", "garlic", "pepper", "salt", "celery"]
+    let ingredients = ["onions", "potatos", "soy sauce", "salt", "beef"]
     return (
         <div>
             <h3>Recipe Ingredients</h3>
