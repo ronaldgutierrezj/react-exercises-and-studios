@@ -10,7 +10,7 @@ function RecipeAuthor(){
             <img src={authorPhoto} alt = "Gaston Acurio" className={styles.imageUpdates} />
             <div >
                <h3>{authorName}</h3>
-               <a href={authorLink}>Blog name</a> 
+               <a href={authorLink}>Acurio's blog'</a> 
             </div>
          </div>
     )
