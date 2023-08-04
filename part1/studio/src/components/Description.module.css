@@ -1,9 +1,19 @@
 .recipeAuthorBlock {
     display: flex;
     justify-content: space-evenly;
+    background-color: coral;
+    align-items: center;
     }
     
     .imageUpdates {
        object-fit: contain;
+    }
+    .link{
+
+      vertical-align: middle;
+
+    }
+    p{
+      font-style: italic;
     }
     

@@ -3,7 +3,7 @@ import styles from './Description.module.css'
 export default function RecipePhoto(){
     return (
         <div>
-               <img src="https://norecipes.com/wp-content/uploads/2018/12/lomo-saltado-sq-500x500.jpg" alt="lomo saltado" className = {styles.imageUpdates} />
+               <img src="https://www.recetas-venezolanas.com/base/stock/Recipe/205-image/205-image_web.jpg" alt="lomo saltado" className = {styles.imageUpdates} />
         </div>
     )
 }

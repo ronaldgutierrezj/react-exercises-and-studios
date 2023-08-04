@@ -7,12 +7,12 @@ function RecipeAuthor(){
     let authorName = "Gaston Acurio"
     return (
          <div className = {styles.recipeAuthorBlock}>
-      <img src={authorPhoto} alt = "Gaston Acurio" className={styles.imageUpdates} />
-      <div>
-         <h3>{authorName}</h3>
-         <a href={authorLink}>Blog name</a> 
-      </div>
-   </div>
+            <img src={authorPhoto} alt = "Gaston Acurio" className={styles.imageUpdates} />
+            <div >
+               <h3>{authorName}</h3>
+               <a href={authorLink}>Blog name</a> 
+            </div>
+         </div>
     )
 }
 
@@ -21,8 +21,8 @@ class RecipeDescription extends React.Component {
        return(
         <div> 
             <div>
-            <h1>Recipe Title</h1>
-            <p>Short recipe description</p>
+            <h1>Lomo Saltado</h1>
+            <p>"Tender slices of deeply seared beef, blister-y onions, juicy tomatoes, and crispy French-fried potatoes unite in this classic Chinese-Peruvian stir-fry."</p>
             </div>
             <RecipeAuthor />
         </div>
