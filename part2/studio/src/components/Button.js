@@ -3,7 +3,8 @@ import ClickedButton from "./ClickedButton";
 import './styling.css'
 
 function Button(props) {
-   return  <SaveButton />;
+  const saveButton =  props.saveButton
+   return  saveButton === true? <SaveButton />: <ClickedButton />;
  }
  
  export default Button;

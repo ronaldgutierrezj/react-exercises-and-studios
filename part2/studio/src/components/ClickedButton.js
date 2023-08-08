@@ -1,9 +1,12 @@
 import './styling.css'
 
 function ClickedButton() {
-  alert("Pin has been clicked")
+  function handleClicked(){
+    alert("Pin has been clicked")
+  }
+  
 
-  return <button id='clickedButton'>Clicked</button>;
+  return <button id='clickedButton' onClick={handleClicked}>Saved</button>;
 }
 
 export default ClickedButton;
