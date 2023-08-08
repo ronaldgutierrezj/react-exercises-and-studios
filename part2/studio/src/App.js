@@ -12,7 +12,7 @@ export default function App() {
     <>
       <RecipeImage />
       <RecipeName />
-      <RateARecipe rating={6} />
+      <RateARecipe rating={3} />
       <Button saveButton={false} />
       <AuthorInfo />
       <IngredientList />
