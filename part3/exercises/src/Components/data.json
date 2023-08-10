@@ -1,0 +1,32 @@
+[{
+    "name":"Hansel and Gretel Beware!",
+    "number_pieces":1000,
+    "image":"https://cdn.unifiedcommerce.com/content/product/medium/4005556169504_1.jpg",
+    "type":"Fantasy"
+
+ }, {
+    "name":"Made In America ",
+    "number_pieces":1500,
+    "image":"https://www.legendsofamerica.com/wp-content/uploads/2018/11/Washington_Crossing_the_Delaware_by_Emanuel_Leutze.jpg",
+    "type":"History"
+
+ }, {
+    "name":"THE HOBBIT",
+    "number_pieces":3000,
+    "image":"https://cdn.unifiedcommerce.com/content/product/large/84039115031701.jpg",
+    "type":"Pop Culture"
+
+ }, {
+    "name":"FISHERMAN'S HELPERS",
+    "number_pieces":"500",
+    "image":"https://cdn.unifiedcommerce.com/content/product/large/796780422513-1.jpg",
+    "type":"Cars"
+
+ }, {
+    "name":"THE SISTINE CHAPEL CEILING",
+    "number_pieces":100,
+    "image":"https://cdn.unifiedcommerce.com/content/product/large/628136609609.jpg",
+    "type":"Religious"
+
+ }
+]
